@@ -1,3 +1,4 @@
+
 # Multi-Faceted Image Recognition Attendance System
 
 ## Overview
@@ -75,3 +76,6 @@ attendance_system/
 - Place pre-computed face encodings in `models/encodings.json` (`python -m src.build_encodings` can generate it).
 - YOLO weights (optional) should go into `models/yolov5s.pt`.
 - Customize configuration via environment variables or `config.py`.
+# cogitnitive-attedeance
+multi_face_detection recoginiton attedance system
+
